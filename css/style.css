@@ -187,7 +187,8 @@ table {
 aside img {
     margin-top: 27px;
 }
-#accordion div { padding-bottom: 20px;}
+#accordion div { padding-bottom: 20px; display: block;  height: 100%;}
+#accordion p {padding-bottom: 15px;}
 .ui-accordion-content {
     height: 100%;
     padding-bottom: 10px;
