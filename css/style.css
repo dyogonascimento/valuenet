@@ -254,7 +254,7 @@ aside img {
     margin-top: 35px;
     display: block;
 }
-#accordion p {padding-bottom: 10px;}
+#accordion {height: 100%; padding-bottom: 15px;}
 .valuenet {
     text-align: center;
 }
