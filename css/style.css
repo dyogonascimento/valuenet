@@ -202,7 +202,7 @@ aside img {
         padding-right: 10px;
     }
     .logo {
-        width: 50%;
+        width: 70%;
         margin: 0 auto;
     }
     .manual img {
@@ -254,7 +254,7 @@ aside img {
     margin-top: 35px;
     display: block;
 }
-
+#accordion p {padding-bottom: 10px;}
 .valuenet {
     text-align: center;
 }
