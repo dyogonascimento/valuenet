@@ -194,7 +194,7 @@ aside img {
 }
 .float-r {float: right;}
 
-/*PADDING SOMENTE NO TABLET E AFINS*/
+/*MEDIA 980PX*/
 
 @media(max-width:980px) {
     .slide {
