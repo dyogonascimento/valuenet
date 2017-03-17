@@ -194,7 +194,7 @@ aside img {
 }
 .float-r {float: right;}
 
-/*MEDIA 980PX*/
+/* MEDIA 980PX */
 
 @media(max-width:980px) {
     .slide {
