@@ -176,6 +176,9 @@ table {
 .slide {
     background-image: url(../img/sunset.jpg);
     background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
     height: 36vh;
     overflow: hidden;
     width: 100%;
